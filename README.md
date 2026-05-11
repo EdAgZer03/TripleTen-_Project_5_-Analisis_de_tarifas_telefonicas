@@ -20,12 +20,3 @@ Analizar diferencias en consumo e ingresos por excedentes entre planes para prop
 Python · Pandas · NumPy · SciPy · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
-
-## ▶️ Cómo reproducir
-```bash
-git clone https://github.com/EdAgZer03/TripleTen-_Project_5_-Analisis_de_tarifas_telefonicas
-cd TripleTen-_Project_5_-Analisis_de_tarifas_telefonicas
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-jupyter lab
